@@ -1,5 +1,3 @@
-
-
 public class point {
    }
         private double x;
@@ -21,5 +19,5 @@ public class point {
         public void setY(double y) {
             this.y= y;
         }
-    }
+    
 
